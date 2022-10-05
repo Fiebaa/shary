@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Shary
 description: We love Shary
+logo: Assets/Img/7ABC3E2B-1259-42B1-98E6-F9B50092520F.png

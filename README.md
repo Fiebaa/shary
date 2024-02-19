@@ -1,7 +1,9 @@
 # Sharing is caring
 
 Please get in contact if you need stuff!
-
+<html>
+<body>
+  
 <form action="https://fabform.io/f/3b9UXPJ" method="post">
   <label for="fullName">Full Name</label>
   <input name="fullName" type="text" required>
@@ -10,6 +12,8 @@ Please get in contact if you need stuff!
   <button type="submit">Send</button>
 </form>
 
+</body>
+</html>
 
 ## Stuff
 - Outdoors

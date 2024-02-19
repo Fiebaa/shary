@@ -2,6 +2,15 @@
 
 Please get in contact if you need stuff!
 
+<form action="https://fabform.io/f/3b9UXPJ" method="post">
+  <label for="fullName">Full Name</label>
+  <input name="fullName" type="text" required>
+  <label for="email">Email</label>
+  <input name="email" type="email" required>
+  <button type="submit">Send</button>
+</form>
+
+
 ## Stuff
 - Outdoors
   - Mountain Bike
